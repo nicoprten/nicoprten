@@ -1,4 +1,11 @@
-### Hi there 👋
+### Matías Nicolás Prtenjaca
+Estudiando Javascript y React en CoderHouse, finalicé el curso de desarrollo web donde volví a ver HTML, CSS, SCSS y Bootstrap.
+Ya había empezado a estudiar estas tecnologías en el terciario Diseño y Desarrollo Web en Da Vinci donde también adquirí el manejo de Illustrator, Photoshop y conocimientos sobre UX/UI.
+Estoy en la búsqueda de mi primer experiencia laboral como programador. Muy interesado en seguir aprendiendo y mejorando mi código!
+<h2>CV</h2>
+
+![CV-v2](https://user-images.githubusercontent.com/41525219/132928649-19bcb62c-3d80-4596-a2d3-53e9c7100c85.jpg)
+
 
 <!--
 **nicoprten/nicoprten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
