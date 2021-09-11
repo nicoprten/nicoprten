@@ -5,9 +5,7 @@ Estoy en la búsqueda de mi primer experiencia laboral como desarrollador Front 
 
 <h2>Les dejo mi cv:</h2>
 
-[CV-v2-GitHub.pdf](https://github.com/nicoprten/nicoprten/files/7146906/CV-v2-GitHub.pdf)
-
-
+![CV-v2](https://user-images.githubusercontent.com/41525219/132929255-15837505-b0f0-482c-94b6-037b7c49e220.jpg)
 
 <!--
 **nicoprten/nicoprten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
