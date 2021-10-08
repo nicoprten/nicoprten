@@ -5,8 +5,8 @@ Estoy en la búsqueda de mi primer experiencia laboral como desarrollador Front 
 
 <h2>Les dejo mi cv:</h2>
 
-![CV-v2](https://user-images.githubusercontent.com/41525219/133001073-45eb54bb-6c22-4a71-b3f7-cfb878e9da47.jpg)
 
+[CV-v2.pdf](https://github.com/nicoprten/nicoprten/files/7308504/CV-v2.pdf)
 
 
 
