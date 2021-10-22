@@ -9,7 +9,13 @@ Estoy en la búsqueda de mi primer experiencia laboral como desarrollador Front 
 
 [CV-v2.pdf](https://github.com/nicoprten/nicoprten/files/7308504/CV-v2.pdf)
 
+<h3>Redes</h3>
 
+[![icon_behance_blue](https://user-images.githubusercontent.com/41525219/138456248-b19abbf2-a618-4506-bd0c-4915ac706cc3.png)][1]
+[![icon_linkedin_blue](https://user-images.githubusercontent.com/41525219/138456254-f51e84ef-2ef8-4a5e-b8e9-1693559177c5.png)][3]
+
+[1]: https://www.behance.net/nicoprtenjaca
+[3]: https://www.linkedin.com/in/nicoprten/
 
 <!--
 **nicoprten/nicoprten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
