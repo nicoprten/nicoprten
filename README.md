@@ -1,4 +1,4 @@
-<i>JS, HTML, CSS, SCSS, Bootstrap, Illustrator y Photoshop.</i>
+<i><b>JS, HTML, CSS, SCSS, Bootstrap, Illustrator y Photoshop.</b></i>
 Estudiando React.
 Estoy en la búsqueda de mi primer experiencia laboral como desarrollador Front End. Muy interesado en seguir aprendiendo y mejorando mi código.
 
