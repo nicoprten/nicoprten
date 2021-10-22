@@ -2,8 +2,10 @@
 Estudiando React.
 Estoy en la búsqueda de mi primer experiencia laboral como desarrollador Front End. Muy interesado en seguir aprendiendo y mejorando mi código.
 
-<h2>Les dejo mi cv:</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoprten)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<h2>Les dejo mi cv:</h2>
 
 [CV-v2.pdf](https://github.com/nicoprten/nicoprten/files/7308504/CV-v2.pdf)
 
