@@ -5,7 +5,7 @@ Estoy en la búsqueda de mi primer experiencia laboral como desarrollador Front 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoprten&title_color=0072e7&text_color=ffffff&bg_color=141414)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2>Les dejo mi cv:</h2>
+<h2>CV</h2>
 
 [CV-v2.pdf](https://github.com/nicoprten/nicoprten/files/7308504/CV-v2.pdf)
 
