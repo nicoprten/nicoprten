@@ -2,7 +2,7 @@
 Estudiando <b>React</b>.
 Estoy en la búsqueda de mi primer experiencia laboral como desarrollador Front End. Muy interesado en seguir aprendiendo y mejorando mi código.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoprten&title_color=141414&text_color=141414&bg_color=0072e7)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoprten&title_color=0d1117&text_color=0d1117&bg_color=0072e7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>CV</h2>
