@@ -1,5 +1,5 @@
 <h2>Frontend Developer</h2>
-<p><b>I am in search of my first work experience as a developer. Very interested in continuing to learn and improve my code</b></p>
+<p><b>🥅I am looking for my first work experience as a frontend developer. I really want to contribute everything I can and continuing learning along the way.</b></p>
 
 <h3>🛠 Technologies</h3>
 
@@ -18,7 +18,7 @@
 <i>Improving my skills in</i> ![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
 
 - 📫 How to reach me: nicoprtenjaca@gmail.com
-- ⚡ Fun fact: I love skateboarding 
+- ⚡ Fun fact: I love skateboarding 🏄‍♂️
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoprten&title_color=0d1117&text_color=0d1117&bg_color=0072e7&border_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,7 +26,7 @@
 
 [CV-v2.pdf](https://github.com/nicoprten/nicoprten/files/7308504/CV-v2.pdf)
 
-<h3>Redes</h3>
+<h3>Links</h3>
 
 [![icon_behance_blue](https://user-images.githubusercontent.com/41525219/138456248-b19abbf2-a618-4506-bd0c-4915ac706cc3.png)][1]
 [![icon_linkedin_blue](https://user-images.githubusercontent.com/41525219/138456254-f51e84ef-2ef8-4a5e-b8e9-1693559177c5.png)][3]
