@@ -1,9 +1,15 @@
 <i><b>JS, HTML, CSS, SCSS, Bootstrap, Illustrator y Photoshop.</b></i>
-Estudiando <b>React</b>.
+Profundizando mis conocimientos en <b>React</b>.
 Estoy en la búsqueda de mi primer experiencia laboral como desarrollador Front End. Muy interesado en seguir aprendiendo y mejorando mi código.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoprten&title_color=0d1117&text_color=0d1117&bg_color=0072e7&border_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning <i>React</i>
+- 👯 I’m looking to work as a frontend developer
+- 💬 Ask me about ...
+- 📫 How to reach me: nicoprtenjaca@gmail.com
+- ⚡ Fun fact: I love skateboarding 
 
 <h2>CV</h2>
 
