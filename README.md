@@ -24,7 +24,8 @@
 
 <h3>CV</h3>
 
-[CV-v2.pdf](https://github.com/nicoprten/nicoprten/files/7308504/CV-v2.pdf)
+[CV-v2.pdf](https://github.com/nicoprten/nicoprten/files/7413102/CV-v2.pdf)
+
 
 <h3>Links</h3>
 
