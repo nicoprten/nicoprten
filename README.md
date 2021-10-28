@@ -30,7 +30,3 @@
   <a href="https://www.linkedin.com/in/nicoprten/" target="_blank"><img alt="linkedin icon" src="https://user-images.githubusercontent.com/41525219/138456254-f51e84ef-2ef8-4a5e-b8e9-1693559177c5.png" /></a>
 </div>
 
-
-<div align="right">
-  <img src="https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove" alt="views"/>
-</div>
