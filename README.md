@@ -1,8 +1,9 @@
 <h2>Frontend Developer</h2>
 <p><b>🥅I try to learn a little more every day and challenge myself with different types of projects, I am currently developing a cryptocurrency search engine and deepening my knowledge in React. I am looking for my first work experience as a frontend developer. I really want to contribute everything I can to the team and continue learning along the way.</b></p>
-<p><b>You can see my portfolio <a href="https://portfolio-np.vercel.app/" target="_blank">here</a> or download my CV <a href="https://github.com/nicoprten/nicoprten/files/7413102/CV-v2.pdf" target="_blank">here</a>.</b></p>
+<p><b>You can see my portfolio <a href="https://portfolio-np.vercel.app/" target="_blank">here</a> or download my CV <a href="https://github.com/nicoprten/nicoprten/files/8382564/CV-v3.pdf" target="_blank">here</a>.</b></p>
 
-<h3>🛠 Technologies</h3>
+
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
