@@ -1,5 +1,4 @@
 <h2>FrontEnd Developer</h2>
-<p><b>I try to learn a little more every day and challenge myself with different types of projects, I am currently developing a cryptocurrency search engine and deepening my knowledge in React. I am looking for my first work experience as a frontend developer. I really want to contribute everything I can to the team and continue learning along the way.</b></p>
 <p><b>You can see my portfolio <a href="https://portfolio-np.vercel.app/" target="_blank">here</a> or download my CV <a href="https://github.com/nicoprten/nicoprten/files/8382564/CV-v3.pdf" target="_blank">here</a>.</b></p>
 
 
@@ -16,8 +15,8 @@
 ![After Effects](https://img.shields.io/badge/-AfterEffects-071D34?style=flat-square&logo=Adobe-after-effects&logoColor=purple)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
 
-<i><b>Improving my skills in</b></i> ![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
 
 <div align="left">
   <ul>
