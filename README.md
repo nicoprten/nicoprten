@@ -9,13 +9,13 @@
 ![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![PhothoShop](https://img.shields.io/badge/-PhotoShop-071D34?style=flat-square&logo=Adobe-Photoshop&logoColor=54A7F8)
 ![Illustator](https://img.shields.io/badge/-Illustrator-071D34?style=flat-square&logo=Adobe-Illustrator&logoColor=orange)
 ![After Effects](https://img.shields.io/badge/-AfterEffects-071D34?style=flat-square&logo=Adobe-after-effects&logoColor=purple)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
+
 
 
 <div align="left">
