@@ -21,7 +21,6 @@
 <div align="left">
   <ul>
     <li>📫 How to reach me: nicoprtenjaca@gmail.com</li>
-    
     <li>⚡ Fun fact: I love skateboarding 🏄‍♂️</li>
   </ul>
 </div>
