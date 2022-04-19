@@ -21,6 +21,7 @@
 <div align="left">
   <ul>
     <li>📫 How to reach me: nicoprtenjaca@gmail.com</li>
+    ![discord](https://dcbadge.vercel.app/api/shield/5610)
     <li>⚡ Fun fact: I love skateboarding 🏄‍♂️</li>
   </ul>
 </div>
