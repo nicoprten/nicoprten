@@ -16,8 +16,8 @@
 ![After Effects](https://img.shields.io/badge/-AfterEffects-071D34?style=flat-square&logo=Adobe-after-effects&logoColor=purple)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+![discord](https://user-images.githubusercontent.com/41525219/164053780-a4e1befa-6b1a-4943-bc45-d925545c959d.svg)#5610
 
-![discord](https://dcbadge.vercel.app/api/shield/5610)
 <div align="left">
   <ul>
     <li>📫 How to reach me: nicoprtenjaca@gmail.com</li>
