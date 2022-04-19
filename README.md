@@ -17,11 +17,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-
+![discord](https://dcbadge.vercel.app/api/shield/5610)
 <div align="left">
   <ul>
     <li>📫 How to reach me: nicoprtenjaca@gmail.com</li>
-    ![discord](https://dcbadge.vercel.app/api/shield/5610)
+    
     <li>⚡ Fun fact: I love skateboarding 🏄‍♂️</li>
   </ul>
 </div>
