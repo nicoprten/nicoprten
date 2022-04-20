@@ -16,13 +16,17 @@
 ![After Effects](https://img.shields.io/badge/-AfterEffects-071D34?style=flat-square&logo=Adobe-after-effects&logoColor=purple)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<h4> For any type of question about code you can talk to me on discord: </h4>
 
+![discord](https://dcbadge.vercel.app/api/shield/374380484433674240?theme=discord-inverted)
 
 <div align="left">
+  
   <ul>
-    <li>📫 How to reach me: nicoprtenjaca@gmail.com</li>
-    <li>Or ![discord](https://dcbadge.vercel.app/api/shield/374380484433674240?theme=discord-inverted)</li>
-    <li>⚡ Fun fact: I love skateboarding 🏄‍♂️</li>
+    
+    📫 How to reach me: nicoprtenjaca@gmail.com
+    
+    ⚡ Fun fact: I love skateboarding 🏄‍♂️
   </ul>
 </div>
   
