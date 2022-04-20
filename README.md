@@ -16,6 +16,7 @@
 ![After Effects](https://img.shields.io/badge/-AfterEffects-071D34?style=flat-square&logo=Adobe-after-effects&logoColor=purple)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+![](https://dcbadge.vercel.app/api/shield/374380484433674240)
 
 <div align="left">
   <ul>
