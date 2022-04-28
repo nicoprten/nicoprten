@@ -1,5 +1,5 @@
 <h2>FrontEnd Developer</h2>
-<p><b>You can see my portfolio <a href="https://portfolio-np.vercel.app/" target="_blank">here</a> or download my CV <a href="https://github.com/nicoprten/nicoprten/files/8382564/CV-v3.pdf" target="_blank">here</a>.</b></p>
+<p><b>You can see my portfolio <a href="https://portfolio-np.vercel.app/" target="_blank">here</a> or download my CV <a href="https://github.com/nicoprten/nicoprten/files/8583211/CV-v4.pdf" target="_blank">here</a>.</b></p>
 
 
 
