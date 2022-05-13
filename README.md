@@ -3,7 +3,7 @@
 
 
 
-Technologies & tools:
+Technologies & Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=sass)![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)![React-Router](https://img.shields.io/badge/-ReactRouter-181717?style=flat-square&logo=react-router)![Redux](https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux&color=blueviolet)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
