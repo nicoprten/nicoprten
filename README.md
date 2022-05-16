@@ -25,9 +25,7 @@
   </ul>
 </div>
 
-  
-<div align="center">
-  <a href="https://twitter.com/nikprten" target="_blank"><img width="80px" alt="twitter icon" src="https://user-images.githubusercontent.com/41525219/168207015-da6afde4-b215-4ac7-ab88-f752378d5638.png" /></a>
-  <a href="https://www.linkedin.com/in/nicoprten/" target="_blank"><img alt="linkedin icon" src="https://user-images.githubusercontent.com/41525219/138456254-f51e84ef-2ef8-4a5e-b8e9-1693559177c5.png" /></a>
-</div>
+[![Twitter: nicoprten](https://img.shields.io/twitter/follow/nikprten?style=social)](https://twitter.com/nikprten)
+[![Linkedin: nicoprten](https://img.shields.io/badge/-nicoprten-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicoprten/)](https://www.linkedin.com/in/nicoprten/)
+[![GitHub nicoprten](https://img.shields.io/github/followers/nicoprten?label=follow&style=social)](https://github.com/nicoprten)  
 
