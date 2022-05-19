@@ -1,4 +1,5 @@
 <h2>FrontEnd Developer</h2>
+<p><b>Hi there! Welcome to my github profile.</b></p>
 <p><b>You can see my portfolio <a href="https://portfolio-np.vercel.app/" target="_blank">here</a> or download my CV <a href="https://github.com/nicoprten/nicoprten/files/8583211/CV-v4.pdf" target="_blank">here</a>.</b></p>
 
 
@@ -19,7 +20,7 @@
   
   <ul>
     
-    📫 How to reach me: nicoprtenjaca@gmail.com
+    📫 Or contact me here: nicoprtenjaca@gmail.com
     
     ⚡ Fun fact: I love skateboarding 🏄‍♂️
   </ul>
