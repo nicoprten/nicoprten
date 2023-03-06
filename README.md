@@ -1,5 +1,4 @@
-<h2>FrontEnd Developer</h2>
-<p><b>Hi there! Welcome to my github profile.</b></p>
+<h2>Hi there!</h2>
 <p><b>You can see my portfolio <a href="https://np-portfolio-nicoprten.vercel.app/" target="_blank">here</a> or download my CV <a href="https://np-portfolio-nicoprten.vercel.app/nicolas-prtenjaca-cv.pdf" target="_blank">here</a>.</b></p>
 
 
