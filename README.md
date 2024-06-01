@@ -4,7 +4,7 @@
 
 
 <p>You can see my portfolio <a href="https://np-portfolio-nicoprten.vercel.app/" target="_blank">here.</p>
-<p>Or download mi resume <a href="https://github.com/user-attachments/files/15520877/nicolasPrtenjaca_CV.pdf" target="_blank">here</a></p>
+<p>Or download my resume <a href="https://github.com/user-attachments/files/15520877/nicolasPrtenjaca_CV.pdf" target="_blank">here</a></p>
 
 <p>I am deepening my knowledge in React and Typescript.</p>
 
